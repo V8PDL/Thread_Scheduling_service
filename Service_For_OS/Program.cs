@@ -5,7 +5,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OS_Service
+namespace Service_For_OS
 {
     static class Program
     {
